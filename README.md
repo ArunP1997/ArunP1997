@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Arun Prasad 👋
 
-<!--
-**ArunP1997/ArunP1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer with 4+ years of experience in frontend-heavy web application testing and Progressive Web App (PWA) testing.
 
-Here are some ideas to get you started:
+## What I work with
+- Frontend Testing (UI/UX, Cross-browser, Responsive Testing)
+- Functional, Regression, and Exploratory Testing
+- Selenium Automation
+- API Testing using Postman
+- SQL for backend data validation
+- Agile / Scrum collaboration
+- Basic CI/CD knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience highlights
+- Tested frontend-heavy web and PWA applications
+- Reported and tracked 500+ defects using Jira
+- Participated in standups, sprint planning, and QA planning with cross-functional teams
+- Communicated with clients for requirement clarification and testing updates
+- Contributed to Selenium-based automation and API validation
+
+## Current focus
+I am currently strengthening my QA portfolio with automation, API testing, and test documentation projects.
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/arun-prasad-m-508a18377/)
+- [Portfolio](ADD_PORTFOLIO_LINK_HERE)
