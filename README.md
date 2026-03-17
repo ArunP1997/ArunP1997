@@ -1,6 +1,6 @@
 # Hi, I'm Arun Prasad 👋
 
-QA Engineer with 4+ years of experience in frontend-heavy web application testing and Progressive Web App (PWA) testing.
+QA Engineer with 3+ years of experience in frontend-heavy web application testing and Progressive Web App (PWA) testing.
 
 ## What I work with
 - Frontend Testing (UI/UX, Cross-browser, Responsive Testing)
@@ -23,4 +23,4 @@ I am currently strengthening my QA portfolio with automation, API testing, and t
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/arun-prasad-m-508a18377/)
-- [Portfolio](ADD_PORTFOLIO_LINK_HERE)
+- [Portfolio](https://arunp.vercel.app/)
